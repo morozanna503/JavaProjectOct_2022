@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-18T20:32:43 GST" name="FizzBuzzTest" finished-at="2022-10-18T20:32:43 GST" duration-ms="13">
+    <groups>
+    </groups>
+    <test started-at="2022-10-18T20:32:43 GST" name="Command line test" finished-at="2022-10-18T20:32:43 GST" duration-ms="13">
+      <class name="FizzBuzzTest">
+        <test-method signature="testStartEqualsEndHappyPath()[pri:0, instance:FizzBuzzTest@2d8f65a4]" started-at="2022-10-18T20:32:43 GST" name="testStartEqualsEndHappyPath" finished-at="2022-10-18T20:32:43 GST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStartEqualsEndHappyPath -->
+        <test-method signature="testStartLessThanEndHappyPath()[pri:0, instance:FizzBuzzTest@2d8f65a4]" started-at="2022-10-18T20:32:43 GST" name="testStartLessThanEndHappyPath" finished-at="2022-10-18T20:32:43 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStartLessThanEndHappyPath -->
+        <test-method signature="testStartGreaterThanEndNegativePath()[pri:0, instance:FizzBuzzTest@2d8f65a4]" started-at="2022-10-18T20:32:43 GST" name="testStartGreaterThanEndNegativePath" finished-at="2022-10-18T20:32:43 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStartGreaterThanEndNegativePath -->
+        <test-method signature="testStartLessThanEndStartEndAreNegativeHappyPath()[pri:0, instance:FizzBuzzTest@2d8f65a4]" started-at="2022-10-18T20:32:43 GST" name="testStartLessThanEndStartEndAreNegativeHappyPath" finished-at="2022-10-18T20:32:43 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStartLessThanEndStartEndAreNegativeHappyPath -->
+      </class> <!-- FizzBuzzTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- FizzBuzzTest -->
+</testng-results>
